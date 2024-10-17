@@ -39,4 +39,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sahildando/CP-Tourist/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/sahildando/CP-Tourist/tree/master/0168-excel-sheet-column-title) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/sahildando/CP-Tourist/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
