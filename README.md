@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahildando/CP-Tourist/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sahildando/CP-Tourist/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/sahildando/CP-Tourist/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sahildando/CP-Tourist/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahildando/CP-Tourist/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sahildando/CP-Tourist/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahildando/CP-Tourist/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sahildando/CP-Tourist/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
