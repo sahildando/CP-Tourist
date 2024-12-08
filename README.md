@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/sahildando/CP-Tourist/tree/master/0182-duplicate-emails) |
+| [1174-sales-analysis-iii](https://github.com/sahildando/CP-Tourist/tree/master/1174-sales-analysis-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
