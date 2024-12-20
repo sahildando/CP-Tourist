@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahildando/CP-Tourist/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/sahildando/CP-Tourist/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahildando/CP-Tourist/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/sahildando/CP-Tourist/tree/master/1484-linked-list-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sahildando/CP-Tourist/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1484-linked-list-in-binary-tree](https://github.com/sahildando/CP-Tourist/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sahildando/CP-Tourist/tree/master/0024-swap-nodes-in-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/sahildando/CP-Tourist/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
