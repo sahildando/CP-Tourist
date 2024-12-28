@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/sahildando/CP-Tourist/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/sahildando/CP-Tourist/tree/master/0268-missing-number) |
+| [0382-linked-list-random-node](https://github.com/sahildando/CP-Tourist/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/sahildando/CP-Tourist/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sahildando/CP-Tourist/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahildando/CP-Tourist/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/sahildando/CP-Tourist/tree/master/0024-swap-nodes-in-pairs) |
+| [0382-linked-list-random-node](https://github.com/sahildando/CP-Tourist/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/sahildando/CP-Tourist/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/0908-middle-of-the-linked-list) |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/sahildando/CP-Tourist/tree/master/0445-add-two-numbers-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sahildando/CP-Tourist/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sahildando/CP-Tourist/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
