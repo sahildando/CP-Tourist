@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahildando/CP-Tourist/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sahildando/CP-Tourist/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/sahildando/CP-Tourist/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahildando/CP-Tourist/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sahildando/CP-Tourist/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/sahildando/CP-Tourist/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
 ## Sorting
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/sahildando/CP-Tourist/tree/master/0382-linked-list-random-node) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sahildando/CP-Tourist/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
