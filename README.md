@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sahildando/CP-Tourist/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/sahildando/CP-Tourist/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahildando/CP-Tourist/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sahildando/CP-Tourist/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/sahildando/CP-Tourist/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sahildando/CP-Tourist/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sahildando/CP-Tourist/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/sahildando/CP-Tourist/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/sahildando/CP-Tourist/tree/master/0242-valid-anagram) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sahildando/CP-Tourist/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sahildando/CP-Tourist/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahildando/CP-Tourist/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahildando/CP-Tourist/tree/master/0242-valid-anagram) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sahildando/CP-Tourist/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sahildando/CP-Tourist/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahildando/CP-Tourist/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahildando/CP-Tourist/tree/master/0242-valid-anagram) |
