@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sahildando/CP-Tourist/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/sahildando/CP-Tourist/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sahildando/CP-Tourist/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahildando/CP-Tourist/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sahildando/CP-Tourist/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahildando/CP-Tourist/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/sahildando/CP-Tourist/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
@@ -152,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sahildando/CP-Tourist/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
