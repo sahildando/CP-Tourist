@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sahildando/CP-Tourist/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
+| [0724-find-pivot-index](https://github.com/sahildando/CP-Tourist/tree/master/0724-find-pivot-index) |
 | [0790-global-and-local-inversions](https://github.com/sahildando/CP-Tourist/tree/master/0790-global-and-local-inversions) |
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
 ## Binary Search
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sahildando/CP-Tourist/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sahildando/CP-Tourist/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sahildando/CP-Tourist/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
