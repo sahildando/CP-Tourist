@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahildando/CP-Tourist/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/sahildando/CP-Tourist/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/sahildando/CP-Tourist/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/sahildando/CP-Tourist/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
