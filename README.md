@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sahildando/CP-Tourist/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
+| [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/sahildando/CP-Tourist/tree/master/0724-find-pivot-index) |
 | [0790-global-and-local-inversions](https://github.com/sahildando/CP-Tourist/tree/master/0790-global-and-local-inversions) |
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sahildando/CP-Tourist/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/sahildando/CP-Tourist/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sahildando/CP-Tourist/tree/master/0389-find-the-difference) |
+| [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sahildando/CP-Tourist/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/sahildando/CP-Tourist/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
 ## Sorting
 |  |
@@ -101,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sahildando/CP-Tourist/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
+| [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahildando/CP-Tourist/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 ## Database
 |  |
 | ------- |
@@ -169,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahildando/CP-Tourist/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
