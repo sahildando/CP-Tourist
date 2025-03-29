@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sahildando/CP-Tourist/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sahildando/CP-Tourist/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahildando/CP-Tourist/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/sahildando/CP-Tourist/tree/master/0445-add-two-numbers-ii) |
 | [0937-online-stock-span](https://github.com/sahildando/CP-Tourist/tree/master/0937-online-stock-span) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahildando/CP-Tourist/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Reservoir Sampling
 |  |
 | ------- |
