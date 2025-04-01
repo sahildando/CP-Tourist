@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sahildando/CP-Tourist/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
 | [0937-online-stock-span](https://github.com/sahildando/CP-Tourist/tree/master/0937-online-stock-span) |
 ## Hash Function
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/sahildando/CP-Tourist/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/sahildando/CP-Tourist/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/sahildando/CP-Tourist/tree/master/0445-add-two-numbers-ii) |
 | [0937-online-stock-span](https://github.com/sahildando/CP-Tourist/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahildando/CP-Tourist/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/sahildando/CP-Tourist/tree/master/0937-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sahildando/CP-Tourist/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
