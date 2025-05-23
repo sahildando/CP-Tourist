@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahildando/CP-Tourist/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sahildando/CP-Tourist/tree/master/0560-subarray-sum-equals-k) |
+| [0587-erect-the-fence](https://github.com/sahildando/CP-Tourist/tree/master/0587-erect-the-fence) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/sahildando/CP-Tourist/tree/master/0724-find-pivot-index) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahildando/CP-Tourist/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/sahildando/CP-Tourist/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/sahildando/CP-Tourist/tree/master/0445-add-two-numbers-ii) |
+| [0587-erect-the-fence](https://github.com/sahildando/CP-Tourist/tree/master/0587-erect-the-fence) |
 | [0790-global-and-local-inversions](https://github.com/sahildando/CP-Tourist/tree/master/0790-global-and-local-inversions) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sahildando/CP-Tourist/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sahildando/CP-Tourist/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/sahildando/CP-Tourist/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
