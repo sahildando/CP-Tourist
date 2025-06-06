@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/sahildando/CP-Tourist/tree/master/0948-sort-an-array) |
 | [1284-four-divisors](https://github.com/sahildando/CP-Tourist/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sahildando/CP-Tourist/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1395-minimum-time-visiting-all-points](https://github.com/sahildando/CP-Tourist/tree/master/1395-minimum-time-visiting-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-global-and-local-inversions](https://github.com/sahildando/CP-Tourist/tree/master/0790-global-and-local-inversions) |
 | [1284-four-divisors](https://github.com/sahildando/CP-Tourist/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sahildando/CP-Tourist/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1395-minimum-time-visiting-all-points](https://github.com/sahildando/CP-Tourist/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sahildando/CP-Tourist/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
 |  |
@@ -259,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0587-erect-the-fence](https://github.com/sahildando/CP-Tourist/tree/master/0587-erect-the-fence) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sahildando/CP-Tourist/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1395-minimum-time-visiting-all-points](https://github.com/sahildando/CP-Tourist/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
