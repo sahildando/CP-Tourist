@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/sahildando/CP-Tourist/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/sahildando/CP-Tourist/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sahildando/CP-Tourist/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2050-count-good-numbers](https://github.com/sahildando/CP-Tourist/tree/master/2050-count-good-numbers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sahildando/CP-Tourist/tree/master/2649-count-total-number-of-colored-cells) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sahildando/CP-Tourist/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/sahildando/CP-Tourist/tree/master/0224-basic-calculator) |
 | [1197-parsing-a-boolean-expression](https://github.com/sahildando/CP-Tourist/tree/master/1197-parsing-a-boolean-expression) |
+| [2050-count-good-numbers](https://github.com/sahildando/CP-Tourist/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
