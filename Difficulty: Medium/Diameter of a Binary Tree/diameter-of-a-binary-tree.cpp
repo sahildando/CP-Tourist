@@ -26,10 +26,10 @@ class Solution {
         int lHeight = diameterRecur(root->left, res);
         int rHeight = diameterRecur(root->right, res);
         
-        // Update the diameter (max path length through current node)
+       
         res = max(res, lHeight + rHeight);
 
-        // Return height of subtree rooted at current node
+       
         return 1 + max(lHeight, rHeight);
     }
 
