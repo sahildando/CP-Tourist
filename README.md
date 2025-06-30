@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sahildando/CP-Tourist/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/sahildando/CP-Tourist/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sahildando/CP-Tourist/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sahildando/CP-Tourist/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahildando/CP-Tourist/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sahildando/CP-Tourist/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahildando/CP-Tourist/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sahildando/CP-Tourist/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahildando/CP-Tourist/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sahildando/CP-Tourist/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/sahildando/CP-Tourist/tree/master/0948-sort-an-array) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sahildando/CP-Tourist/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sahildando/CP-Tourist/tree/master/0118-pascals-triangle) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/sahildando/CP-Tourist/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 ## Two Pointers
