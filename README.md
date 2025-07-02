@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sahildando/CP-Tourist/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/sahildando/CP-Tourist/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sahildando/CP-Tourist/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sahildando/CP-Tourist/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sahildando/CP-Tourist/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahildando/CP-Tourist/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahildando/CP-Tourist/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sahildando/CP-Tourist/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sahildando/CP-Tourist/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sahildando/CP-Tourist/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sahildando/CP-Tourist/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sahildando/CP-Tourist/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahildando/CP-Tourist/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sahildando/CP-Tourist/tree/master/0199-binary-tree-right-side-view) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sahildando/CP-Tourist/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
