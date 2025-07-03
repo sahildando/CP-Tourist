@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-global-and-local-inversions](https://github.com/sahildando/CP-Tourist/tree/master/0790-global-and-local-inversions) |
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/sahildando/CP-Tourist/tree/master/0948-sort-an-array) |
+| [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
 | [1284-four-divisors](https://github.com/sahildando/CP-Tourist/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sahildando/CP-Tourist/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/sahildando/CP-Tourist/tree/master/1395-minimum-time-visiting-all-points) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/0908-middle-of-the-linked-list) |
+| [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sahildando/CP-Tourist/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/sahildando/CP-Tourist/tree/master/0948-sort-an-array) |
+| [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
 ## Counting
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahildando/CP-Tourist/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
+| [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sahildando/CP-Tourist/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Trie
 |  |
