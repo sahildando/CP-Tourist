@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sahildando/CP-Tourist/tree/master/0724-find-pivot-index) |
 | [0790-global-and-local-inversions](https://github.com/sahildando/CP-Tourist/tree/master/0790-global-and-local-inversions) |
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
+| [0917-boats-to-save-people](https://github.com/sahildando/CP-Tourist/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/sahildando/CP-Tourist/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
 | [1284-four-divisors](https://github.com/sahildando/CP-Tourist/tree/master/1284-four-divisors) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/sahildando/CP-Tourist/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sahildando/CP-Tourist/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahildando/CP-Tourist/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
+| [0917-boats-to-save-people](https://github.com/sahildando/CP-Tourist/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/sahildando/CP-Tourist/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
 ## Counting
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahildando/CP-Tourist/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
+| [0917-boats-to-save-people](https://github.com/sahildando/CP-Tourist/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sahildando/CP-Tourist/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Trie
