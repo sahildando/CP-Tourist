@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/sahildando/CP-Tourist/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sahildando/CP-Tourist/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/sahildando/CP-Tourist/tree/master/1395-minimum-time-visiting-all-points) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sahildando/CP-Tourist/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,12 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/sahildando/CP-Tourist/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/sahildando/CP-Tourist/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sahildando/CP-Tourist/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahildando/CP-Tourist/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/sahildando/CP-Tourist/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sahildando/CP-Tourist/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Database
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sahildando/CP-Tourist/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sahildando/CP-Tourist/tree/master/0389-find-the-difference) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sahildando/CP-Tourist/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
