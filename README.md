@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/sahildando/CP-Tourist/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/sahildando/CP-Tourist/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sahildando/CP-Tourist/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1284-four-divisors](https://github.com/sahildando/CP-Tourist/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sahildando/CP-Tourist/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/sahildando/CP-Tourist/tree/master/1395-minimum-time-visiting-all-points) |
