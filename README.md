@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahildando/CP-Tourist/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sahildando/CP-Tourist/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahildando/CP-Tourist/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/sahildando/CP-Tourist/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sahildando/CP-Tourist/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahildando/CP-Tourist/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sahildando/CP-Tourist/tree/master/0238-product-of-array-except-self) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sahildando/CP-Tourist/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/sahildando/CP-Tourist/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sahildando/CP-Tourist/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
