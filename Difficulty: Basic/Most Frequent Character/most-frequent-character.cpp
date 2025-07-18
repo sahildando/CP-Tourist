@@ -21,7 +21,7 @@ class Solution {
                 max=arr[i];
                 ans=i;
             }
-            else if(arr[i]==max && i<ans){ //for lexicographically small char
+            else if(arr[i]==max && i<ans){ 
                 ans=i;
             }
         }
