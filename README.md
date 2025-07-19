@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahildando/CP-Tourist/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/sahildando/CP-Tourist/tree/master/1197-parsing-a-boolean-expression) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sahildando/CP-Tourist/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sahildando/CP-Tourist/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sahildando/CP-Tourist/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahildando/CP-Tourist/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 | [0816-design-hashset](https://github.com/sahildando/CP-Tourist/tree/master/0816-design-hashset) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sahildando/CP-Tourist/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahildando/CP-Tourist/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sahildando/CP-Tourist/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sahildando/CP-Tourist/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Database
 |  |
 | ------- |
