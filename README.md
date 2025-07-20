@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sahildando/CP-Tourist/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sahildando/CP-Tourist/tree/master/0118-pascals-triangle) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/sahildando/CP-Tourist/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sahildando/CP-Tourist/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahildando/CP-Tourist/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/sahildando/CP-Tourist/tree/master/1197-parsing-a-boolean-expression) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sahildando/CP-Tourist/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sahildando/CP-Tourist/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sahildando/CP-Tourist/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sahildando/CP-Tourist/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
@@ -325,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahildando/CP-Tourist/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sahildando/CP-Tourist/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
