@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/rope-cutting3334/1">Rope Cutting</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">You are given array <strong>arr</strong> of length of ropes. A cut operation is performed on ropes such that all of them are reduced by the length of the smallest rope. Return the number of ropes left after every cut operation until the length of each rope is zero.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input :</strong> arr[] = [5, 1, 1, 2, 3, 5] </span>
+<span style="font-size: 18px;"><strong>Output :</strong> [4, 3, 2] </span>
+<span style="font-size: 18px;"><strong>Explanation:</strong> In the first operation, the minimum ropes are 1 So, we reduce length 1 from all of them after reducing we left with 4 ropes and we do the same for rest. </span></pre>
+<pre><span style="font-size: 18px;"><strong>Input :</strong> arr[] = [5, 1, 6, 9, 8, 11, 2, 2, 6, 5]<strong>
+Output :</strong> [9, 7, 5, 3, 2, 1]<br><strong>Explanation: </strong>In the first operation, </span><span style="font-size: 14pt;">the minimum ropes are 1 So, we reduce length 1 from all of them after reducing we left with 9 ropes and so on.</span></pre>
+<p><span style="font-size: 18px;"><strong>Expected Time Complexity:</strong> O(nlogn).<br><strong>Expected Auxiliary Space:</strong>&nbsp;O(1).</span></p>
+<p><span style="font-size: 18px;"><strong>Constraints:<br></strong></span><span style="font-size: 18px;">1 ≤ arr.size() ≤ 10<sup>5<br></sup>1 ≤ arr[i] ≤ 10<sup>5</sup><sup><br></sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Sorting</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
