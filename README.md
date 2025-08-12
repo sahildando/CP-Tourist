@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sahildando/CP-Tourist/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahildando/CP-Tourist/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/sahildando/CP-Tourist/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sahildando/CP-Tourist/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/sahildando/CP-Tourist/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/sahildando/CP-Tourist/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/sahildando/CP-Tourist/tree/master/0344-reverse-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahildando/CP-Tourist/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/sahildando/CP-Tourist/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sahildando/CP-Tourist/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/sahildando/CP-Tourist/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/0328-odd-even-linked-list) |
