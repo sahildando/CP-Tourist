@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sahildando/CP-Tourist/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sahildando/CP-Tourist/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/sahildando/CP-Tourist/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/sahildando/CP-Tourist/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/sahildando/CP-Tourist/tree/master/0587-erect-the-fence) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahildando/CP-Tourist/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sahildando/CP-Tourist/tree/master/0118-pascals-triangle) |
+| [0435-non-overlapping-intervals](https://github.com/sahildando/CP-Tourist/tree/master/0435-non-overlapping-intervals) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/sahildando/CP-Tourist/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sahildando/CP-Tourist/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Two Pointers
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahildando/CP-Tourist/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahildando/CP-Tourist/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sahildando/CP-Tourist/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/sahildando/CP-Tourist/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/sahildando/CP-Tourist/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/sahildando/CP-Tourist/tree/master/0692-top-k-frequent-words) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahildando/CP-Tourist/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/sahildando/CP-Tourist/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/sahildando/CP-Tourist/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/sahildando/CP-Tourist/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
