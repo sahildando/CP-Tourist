@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/sahildando/CP-Tourist/tree/master/0937-reorder-data-in-log-files) |
 | [0948-sort-an-array](https://github.com/sahildando/CP-Tourist/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/sahildando/CP-Tourist/tree/master/0986-interval-list-intersections) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sahildando/CP-Tourist/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1284-four-divisors](https://github.com/sahildando/CP-Tourist/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sahildando/CP-Tourist/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/sahildando/CP-Tourist/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/sahildando/CP-Tourist/tree/master/0985-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/sahildando/CP-Tourist/tree/master/0986-interval-list-intersections) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sahildando/CP-Tourist/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sahildando/CP-Tourist/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahildando/CP-Tourist/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sahildando/CP-Tourist/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/sahildando/CP-Tourist/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
